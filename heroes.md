@@ -1,1 +1,1 @@
-bueno que pasa que no funciona ahora?
+Funciona pero con errores
